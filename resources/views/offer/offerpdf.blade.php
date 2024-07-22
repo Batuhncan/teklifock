@@ -120,48 +120,48 @@
             </table>
         </header>
         <section>
-            <table class="content-table" style="width: 100%; border-collapse: collapse;">
-                <thead>
-                    <tr>
-                        <th style="width: 16.66%; text-align: left;">S. NO</th>
-                        <th style="width: 16.66%; text-align: left;">KOD NO</th>
-                        <th style="width: 16.66%; text-align: left;">MALZEME CİNSİ</th>
-                        <th style="width: 16.66%; text-align: left;">MİKTAR</th>
-                        <th style="width: 16.66%; text-align: left;">BİRİM FİYAT</th>
-                        <th style="width: 16.66%; text-align: left;">TUTAR</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <!-- Sample rows, repeated up to 20 items -->
-                    <!-- Adjust rows as needed -->
-                    <tr>
-                        <td>1</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <!-- Repeat similar rows for a total of 20 -->
-                    <tr>
-                        <td>2</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                    </tr>
-                </tbody>
-            </table>
-        </section>
+          <table class="content-table" style="width: 100%; border-collapse: collapse;">
+              <thead>
+                  <tr>
+                      <th style="width: 10%; text-align: left;">S. NO</th>
+                      <th style="width: 10%; text-align: left;">KOD NO</th>
+                      <th style="width: 20%; text-align: left;">MALZEME CİNSİ</th>
+                      <th style="width: 16.66%; text-align: left;">MİKTAR</th>
+                      <th style="width: 16.66%; text-align: left;">BİRİM FİYAT</th>
+                      <th style="width: 16.66%; text-align: left;">TUTAR</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <!-- Sample rows, repeated up to 20 items -->
+                  <!-- Adjust rows as needed -->
+                  <tr>
+                      <td>1</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <!-- Repeat similar rows for a total of 20 -->
+                  <tr>
+                      <td>2</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+                  <tr>
+                      <td>3</td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                      <td></td>
+                  </tr>
+              </tbody>
+          </table>
+      </section>
         <section class="flex-container" style="display: flex; justify-content: flex-end;">
             <div style="position: relative; display: flex; width: 30%; float: left; margin-top: -5px;">
                 <table class="border-table" style="width: 100%;">
@@ -266,8 +266,10 @@
         <footer>
             <p>OCK PLASTİK MAKİNE SANAYİ VE TİCARET LİMİTED ŞİRKETİ</p>
             <p>UĞUR MUMCU MAH. 2124. Sok. No:7-9 / 5 SULTANGAZİ / İSTANBUL - TÜRKİYE</p>
-            <p>Tel : +90 (212) 667 37 05 Web :
-                <a href="http://www.sturdymachine.com">www.sturdymachine.com</a> E-mail:
+            <p>
+                Tel : +90 (212) 667 37 05 Web :
+                <a href="http://www.sturdymachine.com">www.sturdymachine.com</a>
+                E-mail:
                 <a href="mailto:info@sturdymachine.com">info@sturdymachine.com</a>
             </p>
         </footer>
